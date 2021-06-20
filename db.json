@@ -1,0 +1,74 @@
+{
+  "contacts": [
+    {
+      "id": "62c249cb-ef00-4c0b-bdb6-c4bc0fc3886a",
+      "name": "Tushar Kumar",
+      "email": "tu@rediffmail.com"
+    },
+    {
+      "id": "5792bb4d-b1db-4eb0-b882-399dcd04672a",
+      "name": "Rajesh Singh",
+      "email": "raj@gmail.com"
+    },
+    {
+      "id": "48283a32-e47c-451b-b6b6-e196c0ee3b76",
+      "name": "Rakhi Saxena",
+      "email": "rakhi@gamil.com"
+    },
+    {
+      "id": "b8444441-6241-4b2e-ae85-f2ec18c0eafa",
+      "name": "Samya",
+      "email": "sam@gmail.com"
+    },
+    {
+      "id": "ac353e8d-df36-4930-a944-dc00c7d282cc",
+      "name": "Kunti Kumari",
+      "email": "kunti@pinterest.in"
+    },
+    {
+      "id": "f16b0ed4-46f1-429b-9fde-6f51b703208b",
+      "name": "singh.Amit",
+      "email": "amit@gmail.com"
+    },
+    {
+      "id": "e98e8194-d96b-4ad0-9754-36105dde21b4",
+      "name": "James Goslling",
+      "email": "james@uk.in"
+    },
+    {
+      "id": "8d6a66be-fe58-4c4f-974c-e284376e387a",
+      "name": "Norman",
+      "email": "norman@gmail.com"
+    },
+    {
+      "id": "25c110e0-e20c-4a29-862c-695d81b6c646",
+      "name": "Khilat",
+      "email": "khilat@uhc.com"
+    },
+    {
+      "id": "ea740240-bcf3-493a-8e68-34acf6baad1c",
+      "name": "Clymene",
+      "email": "Clymene@pinterest.in"
+    },
+    {
+      "id": "131c713e-2a04-4f27-807d-5d8cbf2a2757",
+      "name": "kinjal singh",
+      "email": "kindla@rediffmail.com"
+    },
+    {
+      "id": "b9b207af-b74c-42c6-85d4-9f907ee0a8fb",
+      "name": "Teena",
+      "email": "tena@gamil.com"
+    },
+    {
+      "id": "2e64ff55-0f20-4476-94c4-4c0d911188c8",
+      "name": "Tapsi Pannu",
+      "email": "pannu@gmail.com"
+    },
+    {
+      "id": "2779e768-7dae-4cf1-aa86-0fe05bb8d9de",
+      "name": "Maddi",
+      "email": "mad@outlook.in"
+    }
+  ]
+}
